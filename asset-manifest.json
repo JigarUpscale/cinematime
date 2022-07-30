@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cinematime/static/css/main.2478c13d.css",
+    "main.js": "/cinematime/static/js/main.d33fb4d5.js",
+    "index.html": "/cinematime/index.html",
+    "main.2478c13d.css.map": "/cinematime/static/css/main.2478c13d.css.map",
+    "main.d33fb4d5.js.map": "/cinematime/static/js/main.d33fb4d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2478c13d.css",
+    "static/js/main.d33fb4d5.js"
+  ]
+}
