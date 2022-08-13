@@ -1,7 +1,7 @@
 import React from "react";
 import "./About.css";
 import { ToastContainer, toast } from "react-toastify";
-import "react-toastify/dist/ReactToastify.css";         
+import "react-toastify/dist/ReactToastify.css";
 
 const About = () => {
     const notify = () => {
@@ -37,6 +37,9 @@ const About = () => {
                     by genre, cleaner more aesthetically pleasing graphics, and many other
                     delights. So sit back, grab your popcorn and join in the conversation!
                 </p>
+
+                <br />
+                <p>Developed By : Jigisha Padhiyar & Jigar Prajapati</p>
                 <br />
 
                 <h3>Contact Us</h3>
