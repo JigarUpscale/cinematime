@@ -39,7 +39,7 @@ const About = () => {
                 </p>
 
                 <br />
-                <p>Developed By : Jigisha Padhiyar & Jigar Prajapati</p>
+                <p>Developed By: Jigisha Padhiyar & Jigar Prajapati</p>
                 <br />
 
                 <h3>Contact Us</h3>
